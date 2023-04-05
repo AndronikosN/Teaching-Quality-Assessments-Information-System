@@ -17,9 +17,9 @@ In this folder you will find the vue code files. The containers created based on
 
 ## Folder restapi
 In this folder you will find all the files created for the REST FULL Api my system uses.
-Folder config = Database connection
-Folder login = Files required for the login
-Folder Foithths, Omea, Modip = All the files for different types of users.
+-Folder config = Database connection
+-Folder login = Files required for the login
+-Folder Foithths, Omea, Modip = All the files for different types of users.
 
 ## Folder screenshots
 In this folder you will find screenshots presenting the application.
