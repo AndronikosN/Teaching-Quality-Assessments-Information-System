@@ -23,3 +23,4 @@ In this folder you will find all the files created for the REST FULL Api my syst
 
 ## Folder screenshots
 In this folder you will find screenshots presenting the application.
+*Some names are real people, so the names are blurred*
