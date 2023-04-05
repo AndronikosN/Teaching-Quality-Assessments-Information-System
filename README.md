@@ -1,5 +1,5 @@
 # Teaching-Quality-Assessments-Information-System
-This project was created for my thesis at the university. It is a system for creating questionnaires, answering them and displaying data and results.
+This project was created for my thesis. It is a system for creating questionnaires, answering them and displaying data and results.
 
 ## Tools I used
 1. Vue.js (JavaScript Framework)
