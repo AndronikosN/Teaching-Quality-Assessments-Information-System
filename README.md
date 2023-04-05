@@ -21,5 +21,5 @@ Folder config = Database connection
 Folder login = Files required for the login
 Folder Foithths, Omea, Modip = All the files for different types of users.
 
-##Folder screenshots
+## Folder screenshots
 In this folder you will find screenshots presenting the application.
