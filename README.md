@@ -8,7 +8,7 @@ This project was created as part of my thesis. It is a system for creating quest
 4. PHP
 5. CoreUI (Bootstrap template)
 6. Axios - Promise-based HTTP client
-7. JWT (Jason Wen Token)
+7. JWT (Jason Web Token)
 8. Node.js
 
 ## Folder src
